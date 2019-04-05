@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1473467346 source:c:\users\mayra\desktop\tp_1\biblioteca.c
+
+1473467712 source:c:\users\mayra\desktop\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1473467346 c:\users\mayra\desktop\tp_1\biblioteca.h
+
+1477072089 source:c:\users\mayra.ariana.alvarez\desktop\tp_laboratorio_1\tp1\biblioteca.c
+
+1477072089 source:c:\users\mayra.ariana.alvarez\desktop\tp_laboratorio_1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1477072089 c:\users\mayra.ariana.alvarez\desktop\tp_laboratorio_1\tp1\biblioteca.h
+
